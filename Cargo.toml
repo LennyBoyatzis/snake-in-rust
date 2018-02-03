@@ -1,0 +1,6 @@
+[package]
+name = "snake-in-rust"
+version = "0.1.0"
+authors = ["Lenny Boyatzis <lennyboyatzis@gmail.com>"]
+
+[dependencies]
